@@ -1,0 +1,13 @@
+main: me.foxley.animation.Animation
+name: Animation
+version: 1.0
+author: Foxley
+commands:
+  heal:
+    description: Heal a player
+    usage: "/<command> <Player>"
+    permission: animation.command.heal
+  tphere:
+    description: Teleport a player on you
+    usage: "/<command> <Player>"
+    permission: animation.command.tphere
