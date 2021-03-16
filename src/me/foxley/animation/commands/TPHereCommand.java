@@ -24,6 +24,5 @@ public class TPHereCommand implements CommandExecutor {
         } else {
             return false;
         }
-
     }
 }

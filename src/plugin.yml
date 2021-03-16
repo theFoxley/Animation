@@ -5,9 +5,9 @@ author: Foxley
 commands:
   heal:
     description: Heal a player
-    usage: "/<command> <Player>"
+    usage: "§cUtilisation : /<command> [Joueur]"
     permission: animation.command.heal
   tphere:
     description: Teleport a player on you
-    usage: "/<command> <Player>"
+    usage: "§cUtilisation : /<command> <Joueur>"
     permission: animation.command.tphere
