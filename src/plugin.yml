@@ -11,3 +11,7 @@ commands:
     description: Teleport a player on you
     usage: "§cUtilisation : /<command> <Joueur>"
     permission: animation.command.tphere
+  fly:
+    description: Enable the fly
+    usage: "§cUtilisation : /<command> <Joueur>"
+    permission: animation.command.fly
